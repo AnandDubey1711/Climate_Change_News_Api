@@ -1,3 +1,7 @@
+![Climate_Change_News_Api](https://user-images.githubusercontent.com/110890327/200114273-ff3a40db-299a-4515-ab99-f87fedda92d0.png)
+
+
+
 This API helps user in fetching climate change based data from well established multimedia houses to use them on their own website
 The published articles changes based on what the media is currently posting about you can also filter the data based on which media
 house based articles you want for your users.
